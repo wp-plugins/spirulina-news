@@ -4,7 +4,7 @@ Plugin Name: Balsamico News
 Description: Adds a widget for displaying the latest news from http://www.aceto-balsamico.net/
 Version: 1.14
 Author: MS
-Author URI: http://www.aceto-balsamico.net/
+Author URI: http://www.spirulina-handel.de/
 License: GPL3
 */
 

@@ -1,4 +1,4 @@
-=== Balsamico News ===
+=== Spirulina News ===
 Contributors: Sandia Ecommerce OHG	
 Tags: news, widget
 Requires at least: 2.9
